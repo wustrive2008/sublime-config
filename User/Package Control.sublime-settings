@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"Evernote",
+		"Git",
+		"GitGutter-Edge",
+		"GoSublime",
+		"Javatar",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeGit",
+		"SublimeREPL"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"9o.hist.C:\\Users\\baoguo\\Desktop":
+	[
+		"go build .",
+		"go env",
+		"go build test.go",
+		"go test"
+	],
+	"9o.hist.E:\\gopath\\src":
+	[
+		"go build",
+		"go build test.go",
+		"go get github.com/nsf/gocode",
+		"go",
+		"go test",
+		"go test.go",
+		"go env",
+		"go run go test",
+		"go run test.go",
+		"go run temp.go"
+	],
+	"9o.hist.E:\\study\\golang\\file":
+	[
+		"run func.jgo",
+		"run func.go",
+		"run map.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\func":
+	[
+		"go func.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\function":
+	[
+		"润",
+		"u润",
+		"run func.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\goroutine":
+	[
+		"run goroutine.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\interface":
+	[
+		"run interface.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\reflection":
+	[
+		"run reflection.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\sort":
+	[
+		"run BubbleSort.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\sorter\\src\\library":
+	[
+		"run channel.go"
+	],
+	"9o.hist.E:\\study\\golang\\file\\struct":
+	[
+		"run struct.go"
+	],
+	"ann": "a16.01.09-1",
+	"install_version": "r16.01.09-1",
+	"version": "r16.01.09-1"
+}

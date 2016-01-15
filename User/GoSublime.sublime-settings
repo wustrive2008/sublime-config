@@ -1,0 +1,6 @@
+{
+	"env":{
+		"path":"d:\\go\\bin",
+         "GOPATH" : "${GOPATH}"
+	}
+}
